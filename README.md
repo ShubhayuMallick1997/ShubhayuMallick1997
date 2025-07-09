@@ -153,7 +153,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
-  <a href="https://www.youtube.com/@EverydayKnowIt" target="_blank">
+  <a href="https://www.youtube.com/@shubhayumallick577" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
