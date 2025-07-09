@@ -31,10 +31,6 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 ---
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/New%20Microsoft%20PowerPoint%20Presentation%20(2).png" alt="Tech Stack" width="100%" />
-</p>
-
-<p align="center">
 
 <!-- Core Languages & Frameworks -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
