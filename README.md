@@ -92,7 +92,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 ### Languages and Tools:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Stats" height="40" width="250" />
+  <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Stats" height="30" width="150" />
 </p> 
 
 <p align="center">
