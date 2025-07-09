@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/20250709_1205_Mystery%20Coder's%20Lair_simple_compose_01jzpyb4p9ewr9k17d671chwee%20(2).gif" alt="aws" width="2000" height="1000"/>
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot%202025-07-09%20030151.png" alt="aws" width="2000" height="400"/>
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="aws" width="2000" height="1000"/>
 </p>
 ---
 
