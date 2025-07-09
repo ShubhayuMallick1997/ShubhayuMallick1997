@@ -13,6 +13,8 @@
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="Tech Banner" width="100%" />
 </p>
 
+
+
 ---
 
 ## 🚀 About Me
@@ -31,6 +33,37 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 <p align="center">
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/New%20Microsoft%20PowerPoint%20Presentation%20(2).png" alt="Tech Stack" width="100%" />
 </p>
+
+<p align="center">
+
+<!-- Core Languages & Frameworks -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E34A27?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<!-- Big Data Tools -->
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+<img src="https://img.shields.io/badge/Sqoop-FF8800?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<!-- Workflow & Orchestration -->
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+
+<!-- AWS Services -->
+<img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EMR-D15023?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF7F50?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Lambda-FD8900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+
+</p>
+
 
 ## 🛠️ Technical Stack
 
