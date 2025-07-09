@@ -95,31 +95,20 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   <img src="https://img.shields.io/badge/Code%20Reviews-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-
 ---
 
-## 📂 Featured Projects
+<h2 align="center">📢 Connect with Me</h2>
 
-### 🔸 Enterprise Data Pipeline for Sanofi (AWS + PySpark)
+<p align="center">
+📧 <b>Email:</b> shubhayu250497@gmail.com<br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shubhayu-mallick-76a3a426a" target="_blank">linkedin.com/in/shubhayu-mallick-76a3a426a</a><br>
+🌐 <b>Portfolio/Blog:</b> Coming Soon
+</p>
 
-- Designed and developed modular PySpark jobs to ingest data from <b>S3</b>, <b>Web APIs</b>, and <b>Snowflake</b>
-- Used <b>Airflow DAGs</b> to automate job scheduling and EMR cluster lifecycle
-- Implemented performance optimizations including <b>anti-join refactoring</b> and <b>data salting</b> to reduce run time by 2+ hours
-- Final data stored in S3 in <b>Parquet</b> format, consumed by business teams via <b>Athena</b>
+<p align="center">
+<i>“Data is not just numbers – it’s the language of business decisions.”</i>
+</p>
 
-### 🔸 Data Skew & Memory Optimization in EMR
-
-- Resolved <b>data skew</b> issues using <b>salting techniques</b>
-- Configured <b>EMR auto-scaling</b> to handle memory-intensive transformations
-- Handled schema drift in Snowflake by implementing <b>dynamic schema validation</b>
-
----
-
-## 📢 Connect with Me
-
-- 📧 Email: shubhayu250497@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/shubhayu-mallick-76a3a426a](https://www.linkedin.com/in/shubhayu-mallick-76a3a426a)  
-- 🌐 Portfolio/Blog: <i>Coming Soon</i>
 
 ---
 
