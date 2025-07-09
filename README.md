@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/Screenshot%202025-07-09%20030151.png" alt="aws" width="2000" height="400"/>
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot%202025-07-09%20030151.png" alt="aws" width="2000" height="400"/>
 </p>
 ---
 
@@ -69,7 +69,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhayumallick1997&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot%202025-07-09%20114210.png" alt="Profile views" width="1500" height="600" />
 </p>
 
 <p align="center">
@@ -89,21 +89,6 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 
 ### Languages and Tools:
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/apache-spark.png" alt="aws" width="20" height="15"/>
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/Capint-1-7.png" alt="aws" width="25" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="15">
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="16" height="12">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="20" height="15">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="15">
-  </p>
-  
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="15">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="15">
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/hadoop-logo.png" alt="aws" width="20" height="15">
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/azure_sql_database_logo_freelogovectors.net_.png" alt="aws" width="20" height="15">
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/AWS-Logo-PNG-Image.png" alt="aws" width="20" height="15"">
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/1678719746960-removebg-preview.png" alt="aws" width="20" height="15">
   <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/SNOW-35164165.png" alt="aws" width="20" height="15"> 
 </p>
 
