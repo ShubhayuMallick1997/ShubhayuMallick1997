@@ -154,9 +154,9 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 
 
 ---
-
+---
 <h2 align="center"> ### 📊 GitHub Stats
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Profile Views" height="50" width="130" />
 </p>
