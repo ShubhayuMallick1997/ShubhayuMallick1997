@@ -83,9 +83,9 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 ### Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhayu-mallick-76a3a426a/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="80" width="120" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   <a href="https://www.youtube.com/@shubhayumallick577" target="_blank">
-    <img align="center" src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427-removebg-preview.png" alt="LinkedIn" height="50" width="50" />
+    <img align="center" src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/pngtree-youtube-social-media-3d-stereo-png-image_6308427-removebg-preview.png" alt="LinkedIn" height="40" width="60" />
   </a>
 </p>
 
