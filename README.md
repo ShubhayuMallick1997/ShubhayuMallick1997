@@ -29,28 +29,28 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 - 🧪 Agile practitioner with sprint-based delivery, Jira tracking, and team collaboration
 
 ---
-## 🛠️ Tools & Technologies
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
-### 🧑‍💻 Programming
+<h3 align="center">🧑‍💻 Programming</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 💽 Big Data Frameworks
+<h3 align="center">💽 Big Data Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-E34A27?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
 </p>
 
-### 🔄 Orchestration
+<h3 align="center">🔄 Orchestration</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Storage
+<h3 align="center">☁️ Cloud & Storage</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS%20EMR-D15023?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -59,27 +59,28 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   <img src="https://img.shields.io/badge/Secrets%20Manager-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🧊 Data Platforms
+<h3 align="center">🧊 Data Platforms</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web%20APIs-00CED1?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### ⚙️ DevOps & CI/CD
+<h3 align="center">⚙️ DevOps & CI/CD</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
-### 📁 Data Formats & Tools
+<h3 align="center">📁 Data Formats & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Parquet-092E20?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORC-228B22?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSV-458B74?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Avro-EE1C25?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
-### 🧠 Methodologies
+<h3 align="center">🧠 Methodologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Agile-6DA544?style=for-the-badge&logo=agile&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
