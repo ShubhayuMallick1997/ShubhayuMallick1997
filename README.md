@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot_2025-07-09_125213-removebg-preview%20(1).png" alt="aws" width="2000" height="300"/>
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="aws" width="2000" height="1000"/>
 </p>
 ---
@@ -24,7 +23,9 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 - 🧪 Agile practitioner with sprint-based delivery, Jira tracking, and team collaboration
 
 ---
-
+<p align="center">
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot_2025-07-09_125213-removebg-preview%20(1).png" alt="aws" width="2000" height="300"/>
+<p/>  
 ## 🛠️ Technical Stack
 
 | Category          | Tools & Technologies                                 |
