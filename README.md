@@ -89,12 +89,9 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 </p>
 
 ### Languages and Tools:
-<p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/PYSPARK-OVERVIEW/blob/main/SNOW-35164165.png" alt="aws" width="20" height="15"> 
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Stats" />
+  <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Stats" height="30" width="400" />
 </p> 
 
 <p align="center">
