@@ -154,7 +154,6 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 
 
 ---
----
 <h2 align="center"> ### 📊 GitHub Stats
 ---
 <p align="center">
