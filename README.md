@@ -96,7 +96,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayumallick1997&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="300" width="1000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayumallick1997&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200" width="700" />
 </p>
 
 <p align="center">
