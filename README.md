@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot%202025-07-09%20125213.png" alt="aws" width="2000" height="400"/>
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot_2025-07-09_125213-removebg-preview%20(1).png" alt="aws" width="2000" height="300"/>
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="aws" width="2000" height="1000"/>
 </p>
 ---
