@@ -168,19 +168,13 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayumallick1997&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="700" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayumallick1997&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhayumallick1997&show_icons=true&locale=en" alt="GitHub Stats" width="1000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhayumallick1997&show_icons=true&locale=en" alt="GitHub Stats" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhayumallick1997" alt="GitHub Streak" width="1000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhayumallick1997" alt="GitHub Streak" width="600" />
 </p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E34A27?style=for-the-badge&logo=apache-spark&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
