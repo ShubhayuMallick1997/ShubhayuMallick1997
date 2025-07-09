@@ -17,16 +17,21 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
+<p align="center">
 I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven track record of implementing end-to-end ETL workflows, data lake architectures, and business analytics platforms in cloud environments. I focus on creating reliable, production-ready data pipelines that empower teams to make informed decisions with speed and scale.
+</p>
 
-- ⚖️ Hands-on experience with distributed data processing using <b>Apache Spark (PySpark DSL)</b>
-- ☁️ Strong expertise in <b>AWS</b> services: <b>EMR</b>, <b>S3</b>, <b>Lambda</b>, <b>Secrets Manager</b>
-- 📊 Data transformation and modeling for analytical layers using <b>Parquet</b>, <b>Snowflake</b>, and <b>Athena</b>
-- ⚙️ Workflow orchestration with <b>Apache Airflow</b> using EMR Operators
-- 🛠️ Version control using <b>Git/GitHub</b>, CI/CD with <b>Jenkins</b>
-- 🧪 Agile practitioner with sprint-based delivery, Jira tracking, and team collaboration
+<p align="center">
+⚖️ Hands-on experience with distributed data processing using <b>Apache Spark (PySpark DSL)</b>  
+☁️ Strong expertise in <b>AWS services</b>: EMR, S3, Lambda, Secrets Manager  
+📊 Data transformation and modeling for analytical layers using <b>Parquet, Snowflake, and Athena</b>  
+⚙️ Workflow orchestration with <b>Apache Airflow</b> using EMR Operators  
+🛠️ Version control using <b>Git/GitHub</b>, CI/CD with <b>Jenkins</b>  
+🧪 Agile practitioner with sprint-based delivery, <b>Jira tracking</b>, and team collaboration  
+</p>
+
 
 ---
 <h2 align="center">🛠️ Tools & Technologies</h2>
