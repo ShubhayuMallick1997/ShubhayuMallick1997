@@ -96,13 +96,13 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayumallick1997&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayumallick1997&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="300" width="2000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhayumallick1997&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhayumallick1997&show_icons=true&locale=en" alt="GitHub Stats" height="300" width="2000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhayumallick1997" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhayumallick1997" alt="GitHub Streak" height="300" width="2000" />
 </p>
