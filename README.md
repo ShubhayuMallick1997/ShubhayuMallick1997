@@ -41,8 +41,10 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 <h3 align="center">💽 Big Data Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-E34A27?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sqoop-FF6600?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 
 <h3 align="center">🔄 Orchestration</h3>
