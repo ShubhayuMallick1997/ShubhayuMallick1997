@@ -134,23 +134,30 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 
 ---
 
-### 🔗 Connect with me
+<h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubhayu-mallick-76a3a426a/" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/linkedin-logo.png" alt="LinkedIn" height="50" width="200" />
-  </a>
-   <a href="https://github.com/ShubhayuMallick1997" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/logo-05.3cd48609%20(1)1.png" alt="GitHub" height="50" width="200" />
-  </a>
-    <a href="https://www.hackerrank.com/profile/rajamallick087" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/hackerrank-software.png" alt="Hackerrank" height="50" width="200" />
-  </a>
-  <a href="https://www.youtube.com/@shubhayumallick577" target="_blank">
-    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/YouTube-Custom-URL-Claim-Name-scaled.png" alt="YouTube" height="50" width="200" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
+  <a href="https://github.com/ShubhayuMallick1997" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/shubhayu250497" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+
+  <a href="https://leetcode.com/shubhayu250497/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.youtube.com/@EverydayKnowIt" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
 </p>
+
 
 ---
 
