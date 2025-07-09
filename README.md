@@ -29,56 +29,64 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 - 🧪 Agile practitioner with sprint-based delivery, Jira tracking, and team collaboration
 
 ---
-<h2 align="center">💻 Tech Stack</h2>
+## 🛠️ Tools & Technologies
 
-<h3 align="center">🐍 Programming & Scripting Languages</h3>
+### 🧑‍💻 Programming
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<h3 align="center">🔥 Big Data & Distributed Computing</h3>
+### 💽 Big Data Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Spark-E34A27?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Sqoop-FF8800?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
 </p>
 
-<h3 align="center">🗄️ Databases & Warehousing</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-</p>
-
-<h3 align="center">🛠️ Workflow Orchestration</h3>
+### 🔄 Orchestration
 <p align="center">
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
-<h3 align="center">☁️ Cloud & DevOps (AWS)</h3>
+### ☁️ Cloud & Storage
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20EMR-D15023?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF7F50?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20Lambda-FD8900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Athena-FFDD44?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Secrets%20Manager-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-## 🛠️ Technical Stack
+### 🧊 Data Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20APIs-00CED1?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-| Category           | Tools & Technologies                                  |
-|--------------------|-------------------------------------------------------|
-| Programming        | Python, PySpark, SQL                                  |
-| Big Data Framework | Apache Spark, Hadoop, Hive                            |
-| Orchestration      | Apache Airflow                                        |
-| Cloud & Storage    | AWS EMR, S3, Lambda, Athena, Secrets Manager          |
-| Data Platforms     | Snowflake, Web APIs                                   |
-| DevOps & CI/CD     | GitHub, Jenkins                                       |
-| Formats & Tools    | Parquet, JSON, CSV, Avro                              |
-| Methodologies      | Agile (Scrum), Jira, Pull Requests, Code Reviews      |
+### ⚙️ DevOps & CI/CD
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+### 📁 Data Formats & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Parquet-092E20?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSV-458B74?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Avro-EE1C25?style=for-the-badge&logo=apache&logoColor=white"/>
+</p>
+
+### 🧠 Methodologies
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-6DA544?style=for-the-badge&logo=agile&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pull%20Requests-006400?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code%20Reviews-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 
 ---
 
