@@ -71,7 +71,7 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 ---
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot%202025-07-09%20114210.png" alt="Profile views" width="1500" height="600" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/20250709_1211_Intense%20Coding%20Atmosphere_simple_compose_01jzpypkbjf4k9cn2fh81mngfb.gif" alt="Profile views" width="1200" height="700" />
 </p>
 
 <p align="center">
