@@ -172,13 +172,3 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhayumallick1997" alt="GitHub Streak" width="600" />
 </p>
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/YOLO-0-blue?style=for-the-badge" alt="YOLO Badge"/>
-  <img src="https://img.shields.io/badge/Quickdraw-1-green?style=for-the-badge" alt="Quickdraw Badge"/>
-  <img src="https://img.shields.io/badge/Pull%20Shark-0-purple?style=for-the-badge" alt="Pull Shark Badge"/>
-  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-0-orange?style=for-the-badge" alt="Pair Extraordinaire Badge"/>
-  <img src="https://img.shields.io/badge/Starstruck-0-yellow?style=for-the-badge" alt="Starstruck Badge"/>
-  <img src="https://img.shields.io/badge/Galaxy%20Brain-0-cyan?style=for-the-badge" alt="Galaxy Brain Badge"/>
-</p>
