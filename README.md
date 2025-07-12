@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="Tech Banner" width="100%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="Tech Banner" width="50%" />
 </p>
 
 
