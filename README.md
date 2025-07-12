@@ -138,37 +138,28 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 
 ---
 
-<h2 align="center">📢 Connect with Me</h2>
-
-<p align="center">
-📧 <b>Email:</b> shubhayu250497@gmail.com<br>
-💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shubhayu-mallick-76a3a426a" target="_blank">linkedin.com/in/shubhayu-mallick-76a3a426a</a><br>
-🌐 <b>Portfolio/Blog:</b> Coming Soon
-</p>
-
-<p align="center">
-<i>“Data is not just numbers – it’s the language of business decisions.”</i>
-</p>
-
-
----
-
-<blockquote>“Data is not just numbers – it’s the language of business decisions.”</blockquote>
-
----
-
-<p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/20250709_1211_IntenseCodingAtmosphere_simple_compose_01jzpypkbjf4k9cn2fh81mngfbonline-video-cutter-ezgif.com-cut%20(2).gif" alt="Profile coding gif" width="80%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShubhayuMallick1997/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhayumallick1997&theme=gruvbox&column=7" alt="GitHub Trophies" width="90%" />
-  </a>
-</p>
-
----
 <h2 align="center">🔗 Connect with Me</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <th align="left">Email</th>
+    <td>
+      📧 <b>Email:</b> shubhayu250497@gmail.com
+    </td>
+  </tr>
+  <tr>
+    <th align="left">LinkedIn</th>
+    <td>
+      💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shubhayu-mallick-76a3a426a" target="_blank">linkedin.com/in/shubhayu-mallick-76a3a426a</a>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Portfolio/Blog</th>
+    <td>
+      🌐 <b>Portfolio/Blog:</b> Coming Soon
+    </td>
+  </tr>
+</table>
 
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -214,6 +205,28 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 </table>
 
 
+<p align="center">
+<i>“Data is not just numbers – it’s the language of business decisions.”</i>
+</p>
+
+
+---
+
+<blockquote>“Data is not just numbers – it’s the language of business decisions.”</blockquote>
+
+---
+
+<p align="center">
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/20250709_1211_IntenseCodingAtmosphere_simple_compose_01jzpypkbjf4k9cn2fh81mngfbonline-video-cutter-ezgif.com-cut%20(2).gif" alt="Profile coding gif" width="80%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShubhayuMallick1997/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhayumallick1997&theme=gruvbox&column=7" alt="GitHub Trophies" width="90%" />
+  </a>
+</p>
+
+---
 
 ---
 <h2 align="center">Shubhayu's GitHub Stats</h2>
