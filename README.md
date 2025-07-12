@@ -44,7 +44,8 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhayuMallick1997&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
----
+
+
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
 <table align="center" width="100%" style="border-collapse: collapse;">
@@ -230,13 +231,12 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 
 <p align="center">
   <a href="https://github.com/ShubhayuMallick1997/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhayumallick1997&theme=gruvbox&column=7" alt="GitHub Trophies" width="90%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shubhayumallick1997&theme=gruvbox&column=4" alt="GitHub Trophies" width="90%" />
   </a>
 </p>
 
 ---
 
----
 <h2 align="center">Shubhayu's GitHub Stats</h2>
 
 <h3 align="center">👁️ Profile Views</h3>
