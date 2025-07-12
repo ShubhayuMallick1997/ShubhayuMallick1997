@@ -44,7 +44,6 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhayuMallick1997&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
-
 ---
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
@@ -52,9 +51,9 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   <tr>
     <th align="left">🧑‍💻 Programming</th>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-002db3?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/PySpark-F88909?style=for-the-badge&logo=apachespark&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-0e0e3f?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
   </tr>
 
@@ -62,16 +61,16 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
     <th align="left">💽 Big Data Frameworks</th>
     <td>
       <img src="https://img.shields.io/badge/Apache%20Spark-E34A27?style=for-the-badge&logo=apachespark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" />
-      <img src="https://img.shields.io/badge/Sqoop-FF6600?style=for-the-badge&logo=apache&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hadoop-FFD700?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+      <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive Badge"/>
+      <img src="https://img.shields.io/badge/Sqoop-3CB371?style=for-the-badge&logo=apache&logoColor=white" />
     </td>
   </tr>
 
   <tr>
     <th align="left">🔄 Orchestration</th>
     <td>
-      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache%20Airflow-003399?style=for-the-badge&logo=apacheairflow&logoColor=white" />
     </td>
   </tr>
 
@@ -82,17 +81,20 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
         <img src="https://img.shields.io/badge/AWS%20EMR-D15023?style=for-the-badge&logo=amazonaws&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS%20Lambda-FD8900?style=for-the-badge&logo=awslambda&logoColor=white" />
-        <img src="https://img.shields.io/badge/Athena-FFDD44?style=for-the-badge&logo=amazonaws&logoColor=black" />
+        <img src="https://img.shields.io/badge/AWS%20Athena-FFDD44?style=for-the-badge&logo=amazonaws&logoColor=black" />
         <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS%20Glue-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white" />
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Glue%20Crawler-663399?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/QuickSight-5D9CEC?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Secrets%20Manager-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20Glue-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20Glue%20Crawler-663399?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20QuickSight-5D9CEC?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+      </p>
+      <p align = "center">
+        <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20Redshift-CC0000?style=for-the-badge&logo=amazonredshift&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -100,19 +102,19 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   <tr>
     <th align="left">🧊 Data Platforms</th>
     <td>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-      <img src="https://img.shields.io/badge/Web%20APIs-00CED1?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snowflake-1E90FF?style=for-the-badge&logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/Web%20APIs-5F9EA0?style=for-the-badge&logo=fastapi&logoColor=white" />
     </td>
   </tr>
-
-  <tr>
-    <th align="left">⚙️ DevOps & CI/CD</th>
+ <tr>
+    <th align="left">🗃️ Databases</th>
     <td>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-1d3549?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-2b506e?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snowflake-1E90FF?style=for-the-badge&logo=snowflake&logoColor=white" />
     </td>
   </tr>
-
   <tr>
     <th align="left">📁 Data Formats & Tools</th>
     <td>
@@ -123,7 +125,13 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
       <img src="https://img.shields.io/badge/Avro-EE1C25?style=for-the-badge&logo=apache&logoColor=white" />
     </td>
   </tr>
-
+  <tr>
+    <th align="left">⚙️ DevOps & CI/CD</th>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+    </td>
+  </tr>
   <tr>
     <th align="left">🧠 Methodologies</th>
     <td>
@@ -245,5 +253,4 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ShubhayuMallick1997&show_icons=true&theme=github_dark" alt="GitHub Stats">
   </p>
-
 
