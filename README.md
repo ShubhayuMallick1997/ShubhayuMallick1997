@@ -3,17 +3,15 @@
 </p>
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">SHUBHAYU MALLICK</span></h1>
 
-<h3 align="center"> Data Engineer | 3+ Years Experience</h3>
+<h2 align="center"> Data Engineer | 3+ Years Experience</h2>
 
 <p align="center">
   Data Engineer with 3+ years of experience in building robust, scalable, and cloud-native big data pipelines. Specialized in <b>PySpark</b>, <b>AWS EMR</b>, <b>SQL</b>, and <b>Airflow</b>. Experienced in delivering data-driven solutions for enterprise clients like <b>Sanofi</b>.
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="Tech Banner" width="50%" />
+  <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/ezgif-874e7953f956ae.gif" alt="Tech Banner" width="100%" />
 </p>
-
-
 
 ---
 
