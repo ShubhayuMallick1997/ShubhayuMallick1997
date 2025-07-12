@@ -224,6 +224,10 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
   </style>
 </head>
 <body>
+  <h2 align="center">👁️ Profile Views</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShubhayuMallick1997&label=PROFILE+VIEWS&color=0e75b6&style=flat&label_color=1f1f1f" alt="Profile views" />
+</p>
 
   <h2 align="center">Shubhayu's GitHub Stats</h2>
 
