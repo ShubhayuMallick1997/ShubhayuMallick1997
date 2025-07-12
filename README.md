@@ -33,6 +33,18 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 </p>
 
 
+
+<p align="center">
+<!-- GitHub Contributions Chart (Green Grid) -->
+  <img src="https://ghchart.rshah.org/ShubhayuMallick1997" alt="GitHub Contribution Chart">
+
+</p>
+
+<h2 align="center">🧠 Contribution Graph (Dark Theme)</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhayuMallick1997&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
 ---
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
@@ -179,21 +191,52 @@ I'm a passionate and performance-focused <b>Big Data Engineer</b> with a proven 
 
 
 ---
-<h2 align="center"> 📊 GitHub Stats </h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhayumallick&color=blue&style=flat-square" alt="Profile Views" height="50" width="130" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shubhayu's GitHub Stats</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 40px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    h1, h2 {
+      color: #58a6ff;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 40px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhayumallick1997&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="500" />
-</p>
+  <h2 align="center">Shubhayu's GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhayumallick1997&show_icons=true&locale=en" alt="GitHub Stats" width="600" />
-</p>
+  <h2 align="center">🚀 Streak Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhayuMallick1997&theme=dark" alt="GitHub Streak Stats">
+  </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhayumallick1997" alt="GitHub Streak" width="600" />
-</p>
+  <h2 align="center">📊 Overall Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShubhayuMallick1997&show_icons=true&theme=github_dark" alt="GitHub Stats">
+  </p>
+
+</body>
+</html>
 
