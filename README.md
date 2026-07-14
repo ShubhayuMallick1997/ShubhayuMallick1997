@@ -1,6 +1,18 @@
 <p align="center">
   <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Recording2025-07-09173049-Copy-ezgif.com-cut.gif" alt="Logo" width=2000/>
+
 </p>
+
+<h3 align="center">
+🎥 Watch My Portfolio Introduction
+</h3>
+
+<p align="center">
+  <a href="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Man_talking_to_camera_202607142100.mp4">
+    <img src="https://github.com/ShubhayuMallick1997/ShubhayuMallick1997/blob/main/Screenshot%202026-07-14%20211135.png" alt="Portfolio Video" width="800"/>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm <span style="color:#ff6347;">SHUBHAYU MALLICK</span></h1>
 
 <h2 align="center"> Data Engineer | 3+ Years Experience</h2>
